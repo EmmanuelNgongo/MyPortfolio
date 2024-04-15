@@ -1,0 +1,78 @@
+{
+    "skills": [
+        {
+            "id":"1",
+            "src": "./img/product-chain-1.png",
+            "title":"Extract, Transform and Load",
+            "description":"Extract data from different file types, Create a database table, Transform data into different formats, Use an IDE for writing and debugging Python code, Access a database using SQL queries, using Python."
+        },
+        {
+            "id":"2",
+            "src": "./img/tag-1.png",
+            "title":"Java",
+            "description":"Mastery of Java syntax and the semantics of its constructs, including variables, data types, operators, and control flow structures like loops and conditionals. Proficient in using Java's exception handling mechanisms and debugging techniques to write robust and error-free code."
+        },
+        {
+            "id":"3",
+            "src": "./img/feather-pen-2.png",
+            "title":"Script",
+            "description":"Scripts in Python to automate tasks, process data, solve problems, or handle repetitive tasks more efficiently."
+        },
+        {
+            "id":"4",
+            "src": "./img/feather-pen-1.png",
+            "title":"Python",
+            "description":"Proficiency in defining functions and using modules and packages to organize code logically and promote reusability. Understanding of object-oriented concepts such as classes, inheritance, and polymorphism, and how they are implemented and used in Python."
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id":"1",
+            "src": "./img/placeholder-image.png",
+            "title":"ETL",
+            "description":"Extract real-world data from a public website using Webscraping and Requests API in Python",
+            "link": "View in Github"
+        },
+        {
+            "id":"2",
+            "src": "./img/placeholder-image-1.png",
+            "title":"Java",
+            "description":"Basic Application of Java for beginner and mid level.",
+            "link": "View in Github"
+        },
+        {
+            "id":"3",
+            "src": "./img/placeholder-image-2.png",
+            "title":"Portfolio CV",
+            "description":"Web Application portfolio using react(javascript), HTML and CSS",
+            "link": "View in Github"
+        }
+    ], 
+    "testimonial": [
+        {
+            "id":"1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description":"Self Description",
+            "author_name": "Customer",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id":"2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description":"Self Description",
+            "author_name": "Dianne Russel",
+            "author_designation": "Louis Vuitton"
+        },
+        {
+            "id":"3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description":"Self Description",
+            "author_name": "Eddy Murphy",
+            "author_designation": "McDonald's"
+        }
+    ]
+}
